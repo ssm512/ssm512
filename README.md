@@ -79,5 +79,5 @@ Spring Boot + MyBatis + Oracle + JSP 기반 사회인 야구단 관리 플랫폼
 ### 📫 Contact
 
 <p align="left">
-  <a href="mailto:이메일주소를입력하세요"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:shinsang512@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
