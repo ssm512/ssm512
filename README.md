@@ -44,35 +44,23 @@
 
 ### 🚀 Featured Projects
 
-#### 🖥️ NetWatch — 통합 네트워크·서버 모니터링 시스템
-
-네트워크 엔지니어 실무 경험에서 출발한 개인 프로젝트. Spring Boot + Spring Security + MyBatis + PostgreSQL로 Ping 기반 장애 감지 → 카카오톡 알림 → 이력 관리 → 대시보드를 자동화했습니다.
-`Java` `Spring Boot` `Spring Security` `MyBatis` `PostgreSQL` `Docker` 
-
 #### ⚾ SBN — 사회인 야구단 커뮤니티
 
 Spring Boot + MyBatis + Oracle + JSP 기반 사회인 야구단 관리 플랫폼 (4인 팀 프로젝트). 
 `Java` `Spring Boot` `MyBatis` `Oracle` `JWT` `Docker`
+> `[SBN](https://github.com/ssm512/SBNPrj)`
+
+#### 🖥️ NetWatch — 통합 네트워크·서버 모니터링 시스템
+
+네트워크 엔지니어 실무 경험에서 출발한 개인 프로젝트. Spring Boot + Spring Security + MyBatis + PostgreSQL로 Ping 기반 장애 감지 → 카카오톡 알림 → 이력 관리 → 대시보드를 자동화했습니다.
+`Java` `Spring Boot` `Spring Security` `MyBatis` `PostgreSQL` `Docker` 
+> `[NetWatch](https://github.com/ssm512/NetwatchPrj)`
 
 #### 🎓 EduBridge — 학원 출결 관리 서비스
 
 국내 학원을 대상으로 한 웹/앱 프로젝트. 비콘과 GPS를 결합해 출결을 검증하고, 성적, 회비, 상담 정보를 관리하고, AI를 활용한 공지사항 생성, AI자동채점하는 시스템입니다. 4인 팀이 3주 일정으로 진행했습니다.
 `Java` `Spring Boot` `BLE` `GPS`
-
-> `[SBN](https://github.com/ssm512/SBNPrj)`
-> `[NetWatch](https://github.com/ssm512/NetwatchPrj)`
 > `[EduBridgePrj](https://github.com/ssm512/EduBridgePrj)`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssm512&show_icons=true&theme=default&hide_border=true" alt="ssm512's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssm512&hide_border=true" alt="ssm512's streak stats" />
-</p>
 
 ---
 
