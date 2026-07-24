@@ -59,7 +59,6 @@ Spring Boot + MyBatis + Oracle + JSP 기반 사회인 야구단 관리 플랫폼
 국내 학원을 대상으로 한 웹/앱 프로젝트. 비콘과 GPS를 결합해 출결을 검증하고, 성적, 회비, 상담 정보를 관리하고, AI를 활용한 공지사항 생성, AI자동채점하는 시스템입니다. 4인 팀이 3주 일정으로 진행했습니다.
 `Java` `Spring Boot` `BLE` `GPS`
 
-> 📌 각 프로젝트의 저장소 링크는 아래에 직접 채워 넣어 주세요.
 > `[SBN](https://github.com/ssm512/SBNPrj)`
 > `[NetWatch](https://github.com/ssm512/NetwatchPrj)`
 > `[EduBridgePrj](https://github.com/ssm512/EduBridgePrj)`
