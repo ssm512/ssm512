@@ -52,13 +52,13 @@ Spring Boot + MyBatis + Oracle + JSP 기반 사회인 야구단 관리 플랫폼
 
 #### 🖥️ NetWatch — 통합 네트워크·서버 모니터링 시스템
 
-네트워크 엔지니어 실무 경험에서 출발한 개인 프로젝트. Spring Boot + Spring Security + MyBatis + PostgreSQL로 Ping 기반 장애 감지 → 카카오톡 알림 → 이력 관리 → 대시보드를 자동화했습니다.
+네트워크 엔지니어 실무 경험에서 출발한 개인 프로젝트. Spring Boot + Spring Security + MyBatis + PostgreSQL로 장애 감지(Ping 기반) → 카카오톡 알림 → 장애 이력 관리 → 대시보드 구현했습니다.
 `Java` `Spring Boot` `Spring Security` `MyBatis` `PostgreSQL` `Docker` 
 > `[NetWatch](https://github.com/ssm512/NetwatchPrj)`
 
 #### 🎓 EduBridge — 학원 출결 관리 서비스
 
-국내 학원을 대상으로 한 웹/앱 프로젝트. 비콘과 GPS를 결합해 출결을 검증하고, 성적, 회비, 상담 정보를 관리하고, AI를 활용한 공지사항 생성, AI자동채점하는 시스템입니다. 4인 팀이 3주 일정으로 진행했습니다.
+국내 학원을 대상으로 한 웹/앱 프로젝트. 비콘과 GPS을 결합해 출결을 검증, 회비관리, 상담내역관리, AI활용한 공지사항 초안작성, AI자동채점등 4인 팀이 3주 일정으로 진행했습니다.
 `Java` `Spring Boot` `BLE` `GPS` `JWT`
 > `[EduBridgePrj](https://github.com/ssm512/EduBridgePrj)`
 
