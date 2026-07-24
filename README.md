@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm 신상민 (Sangmin Shin)</h1>
 <h3 align="center">신입 백엔드 개발자입니다</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Backend+Developer;Spring+Boot+%26+Java;%EB%8F%99%EC%8B%9C%EC%84%B1%2C+%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98%2C+%EB%8D%B0%EC%9D%B4%ED%84%B0+%EB%AC%B4%EA%B2%B0%EC%84%B1%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%8A%B5%EB%8B%88%EB%8B%A4" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🙋‍♂️ About Me
