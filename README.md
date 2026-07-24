@@ -44,7 +44,7 @@
 
 Spring Boot + MyBatis + Oracle + JSP 기반 사회인 야구단 관리 플랫폼 (4인 팀 프로젝트). 
 `Java` `Spring Boot` `MyBatis` `Oracle` `Docker`
-> `[SBN](https://github.com/ssm512/SBNPrj)`
+> `[SBN]<a>(https://github.com/ssm512/SBNPrj)</a>`
 
 #### 🖥️ NetWatch — 통합 네트워크·서버 모니터링 시스템
 
