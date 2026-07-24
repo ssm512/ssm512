@@ -47,7 +47,7 @@
 #### ⚾ SBN — 사회인 야구단 커뮤니티
 
 Spring Boot + MyBatis + Oracle + JSP 기반 사회인 야구단 관리 플랫폼 (4인 팀 프로젝트). 
-`Java` `Spring Boot` `MyBatis` `Oracle` `JWT` `Docker`
+`Java` `Spring Boot` `MyBatis` `Oracle` `Docker`
 > `[SBN](https://github.com/ssm512/SBNPrj)`
 
 #### 🖥️ NetWatch — 통합 네트워크·서버 모니터링 시스템
@@ -59,7 +59,7 @@ Spring Boot + MyBatis + Oracle + JSP 기반 사회인 야구단 관리 플랫폼
 #### 🎓 EduBridge — 학원 출결 관리 서비스
 
 국내 학원을 대상으로 한 웹/앱 프로젝트. 비콘과 GPS를 결합해 출결을 검증하고, 성적, 회비, 상담 정보를 관리하고, AI를 활용한 공지사항 생성, AI자동채점하는 시스템입니다. 4인 팀이 3주 일정으로 진행했습니다.
-`Java` `Spring Boot` `BLE` `GPS`
+`Java` `Spring Boot` `BLE` `GPS` `JWT`
 > `[EduBridgePrj](https://github.com/ssm512/EduBridgePrj)`
 
 ---
